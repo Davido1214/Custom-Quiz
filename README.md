@@ -9,4 +9,4 @@ This was created using mainly javascript with some css added for detailing and m
 # Webpage Link
 
 # Webpage Preview
-![screenshot](./assets/imgaes/Preview.png)
+![screenshot](./assets/images/Preview.png)
