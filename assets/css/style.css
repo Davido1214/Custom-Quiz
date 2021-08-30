@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.welcome{
+    color: white;
+    flex-wrap: wrap;
+    margin: 0;
+    background-color: red;
+    padding: 10px 15px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    
+}
+.btn-parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.btn {
+    border: none;
+  background-color: red;
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  font-size: 22px;
+  line-height: 22px;
+  margin: 0 0 0 -30px;
+  padding: 14px 34px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.qDesign{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    left: 25%;
+    position: relative;
+}
+
+.quiz{
+    width: 50%;
+    font-size: 25px;
+    display: flex;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+}
+.answer {
+    color: rgb(78, 3, 3);
+    background-color: rgb(233, 227, 227);
+}
+.prompt {
+    color: white;
+    background-color: red;
+}
+.align {
+    text-align: center;
+}
+
+.submit {
+    border: none;
+  background-color: red;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  left: 47%;
+  font-size: 22px;
+  line-height: 22px;
+  margin: 10;
+  padding: 7px 12px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.checkbox{
+    flex-wrap: wrap;
+    display: flex;
+    color: black;
+    font-weight:500;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
+
+}
