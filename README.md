@@ -7,6 +7,7 @@ The purpose of this quiz is to test my abilities in javascript through the use o
 This was created using mainly javascript with some css added for detailing and mininal html
 
 # Webpage Link
+https://davido1214.github.io/Custom-Quiz/
 
 # Webpage Preview
 ![screenshot](./assets/images/Preview.png)
